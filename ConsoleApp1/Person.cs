@@ -27,7 +27,7 @@ public class Person {
     handelliste = "egg, melk, ost, brød";
     Console.WriteLine("Din vanlig handel liste er: "+ handelliste);
 
-    // Hvis du prøver å bruke "mat" variabelen i "Kjøpe()" metoden så får du kjeft fra C# kompilatoren at den varabelen finnes ikke i konteksten av denne metoden "Kjøpe"
+    // Hvis du prøver å bruke "mat" variabelen i "Kjøpe()" metoden så får du kjeft fra C# kompilatoren at den variabelen finnes ikke i konteksten av denne metoden "Kjøpe"
     // Den følgende linjen vil ikke kjøres
     // Console.WriteLine("Din vanlig handel liste er: "+ mat);
 
