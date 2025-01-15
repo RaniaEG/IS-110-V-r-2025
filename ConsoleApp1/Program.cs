@@ -10,3 +10,10 @@ Rania.Navn = "Rania";
 // Kaller "Spise()" og "Kjøpe()" metodene på "Rania" objektet
 Rania.Spise();
 Rania.Kjøpe();
+
+Rania.SkriveUt();
+//Rania.SumTall();
+//Rania.DivideTall();
+
+Welcome1 w = new Welcome1();
+w.SkrivUtTekst();
