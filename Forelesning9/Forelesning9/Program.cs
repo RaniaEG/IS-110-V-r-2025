@@ -2,7 +2,7 @@
 using System.Reflection.Metadata.Ecma335;
 
 int a = 10;
-int b = 5;
+int b = 0;
 int c;
 
 try // try skal alltid kjøres
