@@ -1,0 +1,14 @@
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\bin\Debug\net8.0\Forelesning9.exe
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\bin\Debug\net8.0\Forelesning9.deps.json
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\bin\Debug\net8.0\Forelesning9.runtimeconfig.json
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\bin\Debug\net8.0\Forelesning9.dll
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\bin\Debug\net8.0\Forelesning9.pdb
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\Forelesning9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\Forelesning9.AssemblyInfoInputs.cache
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\Forelesning9.AssemblyInfo.cs
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\Forelesning9.csproj.CoreCompileInputs.cache
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\Forelesning9.dll
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\refint\Forelesning9.dll
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\Forelesning9.pdb
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\Forelesning9.genruntimeconfig.cache
+C:\Users\raniafe\source\repos\Forelesning9\Forelesning9\obj\Debug\net8.0\ref\Forelesning9.dll
