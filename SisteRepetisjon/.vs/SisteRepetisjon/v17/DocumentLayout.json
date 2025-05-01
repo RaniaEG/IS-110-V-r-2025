@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raniafe\\source\\repos\\SisteRepetisjon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660311BB-5EB2-469F-884B-0C82CDBDD41B}|SisteRepetisjon\\SisteRepetisjon.csproj|c:\\users\\raniafe\\source\\repos\\sisterepetisjon\\sisterepetisjon\\bankkonto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660311BB-5EB2-469F-884B-0C82CDBDD41B}|SisteRepetisjon\\SisteRepetisjon.csproj|solutionrelative:sisterepetisjon\\bankkonto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660311BB-5EB2-469F-884B-0C82CDBDD41B}|SisteRepetisjon\\SisteRepetisjon.csproj|c:\\users\\raniafe\\source\\repos\\sisterepetisjon\\sisterepetisjon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660311BB-5EB2-469F-884B-0C82CDBDD41B}|SisteRepetisjon\\SisteRepetisjon.csproj|solutionrelative:sisterepetisjon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankKonto.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\SisteRepetisjon\\SisteRepetisjon\\BankKonto.cs",
+              "RelativeDocumentMoniker": "SisteRepetisjon\\BankKonto.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\SisteRepetisjon\\SisteRepetisjon\\BankKonto.cs",
+              "RelativeToolTip": "SisteRepetisjon\\BankKonto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:21:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\SisteRepetisjon\\SisteRepetisjon\\Program.cs",
+              "RelativeDocumentMoniker": "SisteRepetisjon\\Program.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\SisteRepetisjon\\SisteRepetisjon\\Program.cs",
+              "RelativeToolTip": "SisteRepetisjon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:37:43.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
